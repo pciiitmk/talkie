@@ -9,6 +9,11 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+/**
+ * Displays Login screen for Talkie.
+ * @author Prashant Chaturvedi
+ *
+ */
 public class LoginActivity extends Activity {
 
 	@Override

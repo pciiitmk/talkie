@@ -17,6 +17,11 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
+/**
+ * Displays the screens where the users could see friends and groups. Chats are also displayed by this screen.
+ * @author Prashant Chaturvedi
+ *
+ */
 public class FriendsAndGroupsActivity extends Activity implements
 		ActionBar.TabListener {
 
