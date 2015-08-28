@@ -22,7 +22,7 @@
             android:label="@string/title_activity_login" >
         </activity>
         <activity
-            android:name="labs.pc.talkie.activities.SignupActivity"
+            android:name=".activities.SignupActivity"
             android:label="@string/title_activity_signup" >
         </activity>
     </application>
