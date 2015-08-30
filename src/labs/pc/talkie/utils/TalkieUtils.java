@@ -1,10 +1,8 @@
 package labs.pc.talkie.utils;
 
-import labs.pc.talkie.R;
-import android.app.Activity;
-import android.app.AlertDialog;
-import android.content.Context;
-import android.content.Intent;
+import labs.pc.talkie.*;
+import android.app.*;
+import android.content.*;
 
 /**
  * This class contains methods for common code reuse.

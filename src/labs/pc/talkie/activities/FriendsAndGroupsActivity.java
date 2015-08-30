@@ -1,21 +1,13 @@
 package labs.pc.talkie.activities;
 
-import java.util.Locale;
+import java.util.*;
 
-import labs.pc.talkie.R;
-import android.app.ActionBar;
-import android.app.Activity;
-import android.app.Fragment;
-import android.app.FragmentManager;
-import android.app.FragmentTransaction;
-import android.os.Bundle;
-import android.support.v13.app.FragmentPagerAdapter;
-import android.support.v4.view.ViewPager;
-import android.view.LayoutInflater;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import android.view.ViewGroup;
+import labs.pc.talkie.*;
+import android.app.*;
+import android.os.*;
+import android.support.v13.app.*;
+import android.support.v4.view.*;
+import android.view.*;
 
 /**
  * Displays the screens where the users could see friends and groups. Chats are also displayed by this screen.

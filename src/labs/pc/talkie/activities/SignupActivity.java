@@ -1,13 +1,9 @@
 package labs.pc.talkie.activities;
 
-import labs.pc.talkie.R;
-import labs.pc.talkie.R.id;
-import labs.pc.talkie.R.layout;
-import labs.pc.talkie.R.menu;
-import android.app.Activity;
-import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+import labs.pc.talkie.*;
+import android.app.*;
+import android.os.*;
+import android.view.*;
 
 /**
  * Displays signup screen for Talkie
